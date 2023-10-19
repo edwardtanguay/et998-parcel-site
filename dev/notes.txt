@@ -13,8 +13,8 @@
 - x Tailwind
 - x publish to Vercel
 	- https://et998-parcel-site-iwotuv573-edwardtanguay.vercel.app
-- .. images (/public)
-- components
+- x images (/public)
+- .. components
 - read a JSON file
 - get data from API with fetch
 - get data from API with axios
