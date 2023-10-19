@@ -2,4 +2,6 @@
 - x ES6 modules
 	- x tool.js: changeTitle
 - x create npm project
+	- `npm init -y`
 - .. install parcel
+	- `npm i -D parcel`
