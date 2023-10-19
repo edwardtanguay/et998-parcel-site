@@ -6,5 +6,7 @@
 - x install parcel
 	- `npm i -D parcel`
 - .. set up parcel site
+	- x import css
+	- .. sass
 
 
