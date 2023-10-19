@@ -7,6 +7,8 @@
 	- `npm i -D parcel`
 - .. set up parcel site
 	- x import css
-	- .. sass
+	- x sass
+	- x typescript
+	- 
 
 
