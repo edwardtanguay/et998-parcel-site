@@ -10,8 +10,8 @@
 	- x sass
 	- x typescript
 
-- .. Tailwind
-- publish to Vercel
+- x Tailwind
+- .. publish to Vercel
 - images (/public)
 - components
 - read a JSON file
