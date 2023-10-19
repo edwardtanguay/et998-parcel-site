@@ -5,10 +5,22 @@
 	- `npm init -y`
 - x install parcel
 	- `npm i -D parcel`
-- .. set up parcel site
+- x set up parcel site
 	- x import css
 	- x sass
 	- x typescript
-	- 
 
+- .. Tailwind
+- publish to Vercel
+- images (/public)
+- components
+- read a JSON file
+- get data from API with fetch
+- get data from API with axios
+- PokeAPI
+- router
+- npm 
+	- lodash-es 
+	- dayjs
+	- https://www.npmjs.com/package/date-fns
 
