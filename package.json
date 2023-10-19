@@ -3,10 +3,9 @@
   "source": "index.html",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "npx parcel index.html",
-    "build": "npm run build"
+    "build": "parcel build"
   },
   "keywords": [],
   "author": "",
