@@ -7,12 +7,16 @@
     "@parcel/transformer-sass": "^2.10.0",
     "autoprefixer": "^10.4.16",
     "parcel": "^2.10.0",
+    "parcel-reporter-static-files-copy": "^1.5.3",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.3"
   },
   "scripts": {
     "dev": "npx parcel index.html",
     "build": "parcel build"
+  },
+   "staticFiles": {
+    "staticPath": "public"
   },
   "repository": {
     "type": "git",
