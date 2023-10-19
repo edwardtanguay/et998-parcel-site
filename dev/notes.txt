@@ -3,5 +3,8 @@
 	- x tool.js: changeTitle
 - x create npm project
 	- `npm init -y`
-- .. install parcel
+- x install parcel
 	- `npm i -D parcel`
+- .. set up parcel site
+
+
