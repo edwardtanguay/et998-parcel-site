@@ -1,10 +1,12 @@
 {
   "name": "et998-parcel-site",
+  "source": "index.html",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npx parcel index.html"
+    "dev": "npx parcel index.html",
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
