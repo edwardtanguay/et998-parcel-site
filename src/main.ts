@@ -3,10 +3,10 @@ import { Skills } from './components/Skills';
 import './style.scss';
 import skills from './data/skills.json';
 import { Jobs } from './components/Jobs';
+import axios from 'axios';
 
 (async () => {
-	const response = await fetch('https://edwardtanguay.vercel.app/share/jobs.json');
-	const jobs = await response.json();
+	const jobs = (await axios.get('https://edwardtanguay.vercel.app/share/jobs.json')).data;
 
 	document.querySelector('#app')!.innerHTML = /*html*/ `
 	${Header()}

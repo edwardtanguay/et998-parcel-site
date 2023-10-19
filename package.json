@@ -6,6 +6,7 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.0",
     "autoprefixer": "^10.4.16",
+    "buffer": "^6.0.3",
     "parcel": "^2.10.0",
     "parcel-reporter-static-files-copy": "^1.5.3",
     "postcss": "^8.4.31",
@@ -15,7 +16,7 @@
     "dev": "npx parcel index.html",
     "build": "parcel build"
   },
-   "staticFiles": {
+  "staticFiles": {
     "staticPath": "public"
   },
   "repository": {
@@ -28,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/edwardtanguay/et998-parcel-site/issues"
   },
-  "homepage": "https://github.com/edwardtanguay/et998-parcel-site#readme"
+  "homepage": "https://github.com/edwardtanguay/et998-parcel-site#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
 }
