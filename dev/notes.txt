@@ -14,8 +14,9 @@
 - x publish to Vercel
 	- https://et998-parcel-site-iwotuv573-edwardtanguay.vercel.app
 - x images (/public)
-- .. components
-- read a JSON file
+- x components
+- x read a JSON file
+- .. interfaces
 - get data from API with fetch
 - get data from API with axios
 - PokeAPI
