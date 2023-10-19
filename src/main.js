@@ -1,4 +1,3 @@
-import { changeTitle } from "./tools.js";
-
-console.log("test");
-changeTitle();
+document.querySelector("#app").innerHTML = /*html*/ `
+  <h1>Parcel Site</h1>
+`;
