@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "source": "index.html",
   "description": "",
-  "main": "index.js",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.0",
     "autoprefixer": "^10.4.16",
