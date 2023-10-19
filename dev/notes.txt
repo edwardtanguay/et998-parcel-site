@@ -16,8 +16,8 @@
 - x images (/public)
 - x components
 - x read a JSON file
-- .. interfaces
-- get data from API with fetch
+- x interfaces
+- .. get data from API with fetch
 - get data from API with axios
 - PokeAPI
 - router
