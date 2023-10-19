@@ -18,7 +18,7 @@
 - x read a JSON file
 - x interfaces
 - x get data from API with fetch
-- .. get data from API with axios
+- x get data from API with axios
 - PokeAPI
 - router
 - npm 
